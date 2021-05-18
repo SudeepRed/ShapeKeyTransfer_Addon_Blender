@@ -10,4 +10,4 @@ An Addon to Transfer ShapeKeys between a Source Object and a Destination Object
     In the 3D viewport under the "Tools" section.
     If you can't find the "Tools" section press 'N' on your keyboard.
     
-   
+### Tested on Blender 2.8+
